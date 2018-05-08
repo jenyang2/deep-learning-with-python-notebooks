@@ -1,0 +1,10 @@
+*.bak
+*.ckpt
+*.pyc
+.DS_Store
+.ipynb_checkpoints
+checkpoint
+logs/*
+tf_logs/*
+my_*
+temp/*
