@@ -1,13 +1,14 @@
 name: deep-learning-with-python
 
 dependencies:
-- python=3.5
+- python
 - scikit-learn
 - scipy
 - numpy
 - matplotlib
 - ipython
 - jupyter
+- pillow
 - pip:
   - tensorflow-gpu
   - keras
