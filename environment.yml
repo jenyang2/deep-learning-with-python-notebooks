@@ -9,6 +9,7 @@ dependencies:
 - ipython
 - jupyter
 - pillow
+- opencv
 - pip:
   - tensorflow-gpu
   - keras
