@@ -1,4 +1,5 @@
 import os
+import matplotlib.pyplot as plt
 
 # 핸즈온 번역서 노트북을 위한 유틸리티 함수들입니다.
 

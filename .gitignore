@@ -9,3 +9,4 @@ tf_logs/*
 my_*
 temp/*
 datasets/cats_and_dogs_small
+*.h5
