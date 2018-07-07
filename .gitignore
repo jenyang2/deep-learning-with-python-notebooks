@@ -13,3 +13,4 @@ datasets/cats_and_dogs_small
 .gitattributes
 datasets/glove*
 datasets/*.tar.gz
+images/*
