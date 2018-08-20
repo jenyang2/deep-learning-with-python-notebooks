@@ -1,7 +1,7 @@
 name: deep-learning-with-python
 
 dependencies:
-- python
+- python=3.6
 - scikit-learn
 - scipy
 - numpy
@@ -10,7 +10,10 @@ dependencies:
 - jupyter
 - pillow
 - opencv
+- graphviz
+- cython
 - pip:
   - tensorflow-gpu
   - keras
   - watermark
+  - pydot-ng
