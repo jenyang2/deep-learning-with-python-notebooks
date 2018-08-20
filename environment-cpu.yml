@@ -15,5 +15,4 @@ dependencies:
 - pip:
   - tensorflow
   - keras
-  - watermark
   - pydot-ng
