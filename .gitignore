@@ -8,10 +8,10 @@ logs/*
 tf_logs/*
 my_*
 temp/*
+datasets/glove*
 datasets/cats_and_dogs_small
 *.h5
 .gitattributes
-datasets/glove*
 datasets/*.tar.gz
 images/*
 dream_at_scale*
