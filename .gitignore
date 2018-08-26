@@ -10,6 +10,7 @@ my_*
 temp/*
 datasets/glove*
 datasets/cats_and_dogs_small
+datasets/gan_images
 *.h5
 .gitattributes
 datasets/*.tar.gz
