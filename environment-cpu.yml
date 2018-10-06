@@ -12,6 +12,7 @@ dependencies:
 - opencv
 - graphviz
 - cython
+- testpath<0.4
 - pip:
   - tensorflow
   - keras
